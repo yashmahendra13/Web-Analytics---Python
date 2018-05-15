@@ -1,0 +1,13 @@
+Which option do you think works better for the search?
+Write down your analysis as a print-out, or attach a txt file if you wish.
+
+Answer: 
+For me, I am getting the similar documents for both normalize option.
+But the difference is the order.
+And I think the no-stemming normalize option's output was better than stemming option.
+Because the document on which basis I am finding the relevant docs, main focus is on 'soundtrack' and then it talks about a 'game'.
+And the similar documents in No-stemming option also focusses mainly on soundtrack and later other similar documents talks about the game.
+But for stemming option, the similar docs focusses more on games and less on soundtrack.
+
+Thus, after analyzing similar document for more reviews, I was able to conclude that no-stemming output was more pertinent than stem output.
+
